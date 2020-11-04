@@ -1,0 +1,1 @@
+const ipAddressTracker = new IpAddressTracker();
